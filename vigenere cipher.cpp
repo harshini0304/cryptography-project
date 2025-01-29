@@ -17,7 +17,6 @@ string vigenereCipher(string text, string key, bool encrypt) {
     }
     return result;
 }
-
 int main() {
     string text, key;
     char choice;
